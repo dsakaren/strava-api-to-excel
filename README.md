@@ -6,6 +6,10 @@ It is implemented as a step-by-step Jupyter Notebook covering authentication, da
 
 ---
 
+## Watch a walkthrough of the project here:
+
+[![Watch the video](https://img.youtube.com/vi/E5fQgz2sn20/0.jpg)](https://www.youtube.com/watch?v=E5fQgz2sn20)
+
 ## 🚀 Overview
 
 The notebook follows a 4-step workflow:
